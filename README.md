@@ -176,11 +176,11 @@ else:
 
 
 ### policy evaluation:
-![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/33ac4602-293e-411b-b225-c144d475fd61)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/ba0a6359-cac3-49be-8417-875a0c62ac1d)
 
 
 ### state value function:
-![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/ba0a6359-cac3-49be-8417-875a0c62ac1d)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/33ac4602-293e-411b-b225-c144d475fd61)
 
 
 ## <u> policy 2: </u>
