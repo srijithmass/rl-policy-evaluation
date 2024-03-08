@@ -34,10 +34,12 @@ For example, if the agent is in state S and takes the "R" action, then there is 
 - The agent receives a reward of 0 for all other states.
 
 ### Graphical Representation
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/920712aa-ba9f-4520-95b4-e6b2c2e27efc)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/cd36314b-0cc2-40ed-8f30-c54d439909f0)
+
 
 ## POLICY EVALUATION FUNCTION
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/5b35226f-6fa5-4f53-9d4d-6a086fdc8b16)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/d209821e-c6c7-4229-8519-66c1e883cb5f)
+
 
 ## PROGRAM
 ```py
@@ -170,26 +172,33 @@ else:
 ## <u> policy 1: </u>
 
 ### policy
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/7032868e-c983-4fa5-9a1c-b876ec05e52d)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/623c91be-ab6d-4b60-b801-57606c745323)
+
 
 ### policy evaluation:
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/a3b3f7a4-fbef-4378-b639-3fa4863d3b5d)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/33ac4602-293e-411b-b225-c144d475fd61)
+
 
 ### state value function:
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/31b10d69-fc5c-4b21-99e4-d311ac4e6924)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/ba0a6359-cac3-49be-8417-875a0c62ac1d)
+
 
 ## <u> policy 2: </u>
 ### policy
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/e653eb7c-4ea5-44cf-8f69-fb77584b9d40)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/b91f89ec-2e4f-4daa-8f52-a0f98b4a1646)
+
 
 ### policy evaluation:
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/45bdfaed-1fb1-41f5-bfb6-a40313add9b0)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/401b85e4-189a-4ac7-8139-3f622db8cec7)
+
 
 ### state value function:
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/3eb368da-2506-4ca4-9c9f-3a1947d0a322)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/222f1a4b-0567-4c56-8486-54086d99f15f)
+
 
 ## <u> policy comparison: </u> 
-![image](https://github.com/Venkatigi/rl-policy-evaluation/assets/94154252/26c8edbc-e35a-4842-b2bb-2dafcbdf574a)
+![image](https://github.com/srijithmass/rl-policy-evaluation/assets/86846530/a8ccc5bb-c2a7-487e-937e-d3ee3167738d)
+
 
 ## RESULT:
 Thus, a Python program is developed to evaluate the given policy.
